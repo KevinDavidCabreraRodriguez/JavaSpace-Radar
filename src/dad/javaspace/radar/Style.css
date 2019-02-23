@@ -1,0 +1,7 @@
+.rootPane {
+	-fx-background-color: rgba(255.0, 255.0, 255.0, 0.1);
+}
+
+.radarPane #margin{
+	-fx-background-color: red;
+}
